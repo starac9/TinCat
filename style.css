@@ -1,0 +1,184 @@
+h1 {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 3rem;
+  line-height: 1.5;
+  font-weight: 900;
+}
+
+h2 {
+  font-family: "Montserrat";
+  font-size: 3rem;
+}
+
+h3 {
+  font-weight: bolder;
+}
+
+p {
+  color: grey;
+}
+
+#title {
+  background-color: #aa00ff;
+  color: #fff;
+  height: 550px;
+  padding-top: 150px;
+}
+
+.container-fluid {
+  padding: 2% 15%;
+
+    padding-top: 10px;
+    padding-bottom: 10px;
+    text-align: center;
+
+}
+
+body {
+  font-family: 'Montserrat', sans-serif;
+}
+
+/* navigation bar */
+ul{
+  margin-left: 50% ;
+}
+.navigation-bar {
+
+}
+
+.navbar-brand {
+  font-family: "ubuntu";
+  font-size: 2.5rem;
+  font-weight: bold;
+  margin-right: 0px;
+  padding-left: 140px;
+
+}
+
+.nav-item {
+  padding: 0 18px;
+}
+
+.nav-link {
+  font-size: 1.2rem;
+  font-family: "Montserrat";
+}
+
+.ms-auto{
+    margin-left: 50% !important;
+}
+
+.me-auto{
+  margin-right: auto !important;
+}
+/* download buttons */
+.download-button {
+  margin: 8% 3% 5% 0;
+}
+
+/* title image */
+.title-image {
+  width: 60%;
+}
+
+/* features */
+#features {
+  padding: 7% 15%;
+  background-color: white;
+}
+
+/* feature-box */
+.feature-box {
+  text-align: center;
+  padding: 5%;
+}
+
+.icon {
+  color: #bf80ff;
+  margin-bottom: 1rem;
+}
+
+.icon:hover {
+  color: #aa00ff;
+}
+
+/* testimonials */
+#testimonials {
+  padding: 7% 15%;
+  text-align: center;
+  background-color: #aa00ff;
+  color: white;
+}
+
+.kitten {
+  width: 20%;
+  border-radius: 100%;
+  margin: 20px;
+}
+
+#press {
+  background-color: #aa00ff;
+  text-align: center;
+  padding-bottom: 3%;
+}
+
+.press-img {
+  width: 15%;
+  margin: 20px 20px 50px;
+}
+
+/* pricing */
+#pricing {
+  margin-top: 150px;
+  margin-left: 100px;
+  margin-right: 100px;
+  font-family: Montserrat;
+  text-align: center;
+}
+
+#top-most {
+  text-align: center;
+}
+
+#end {
+  text-align: center;
+  background-color: #aa00ff;
+  color: white;
+  padding: 7% 15%;
+}
+
+.end-last {
+  font-size: 3.5rem;
+  line-height: 3rem;
+}
+
+#footer {
+  padding: 7% 15%;
+  text-align: center;
+}
+
+#footer p{
+  color: black;
+}
+
+.socail-icon {
+  margin: 20px 10px;
+}
+
+.list-unstyled{
+  margin-left: 10px;
+}
+
+.navbar-nav{
+  margin-left: 300px;
+}
+
+.size{
+  padding-left:55px;
+}
+
+@media (max-width: 1090px) {
+  body {
+    text-align: center;
+  }
+}
